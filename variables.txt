@@ -1,2 +1,2 @@
 [Variables]
-
+nozzle_expansion_coefficient = 0.056
